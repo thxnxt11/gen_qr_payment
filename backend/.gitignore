@@ -1,0 +1,16 @@
+.env
+.env.example
+/node_modules/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/bin/
+/dist/
+/tmp/
+/coverage/
+/vendor/
+.DS_Store
